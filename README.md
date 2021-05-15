@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Shivam Modi  - aka  [Shiva][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a 2020 passout Student and Developer !
+## I'm a React Developer !
 
 
 - 📚 I’m currently learning Fullstack Javascript Development
@@ -13,11 +13,11 @@
 
 [<img align="left" alt="Shivam" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shivam| LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shivam | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Shivam | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Shivam | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shivam | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Shivam | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
