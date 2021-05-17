@@ -1,5 +1,5 @@
 
-### Hi there, I'm Shivam Modi  - aka  [Shiva][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Shivam Modi  - aka  [Shiva][website] <img src="https://github.com/blackcater/blackcater/blob/ff8238ba16adf300da1c922ff29d64c106b6275d/images/Hi.gif"  height="32"/>
 
 ## I'm a React Developer !
 
