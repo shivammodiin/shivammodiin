@@ -5,7 +5,7 @@
 
 
 - 📚 I’m currently learning Fullstack Javascript Development
-- 🎯 2021 Goals: Contribute more to Open Source projects
+- 🎯 2022 Goals: Contribute more to Open Source projects and learning some trending stack
 - ⚡ Fun fact: I love to gain knowledge about new technologies
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="28">
