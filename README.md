@@ -81,7 +81,7 @@
 
 [website]: https://shivammodi.in/
 [linkedin]: https://www.linkedin.com/in/shivammodiin/
-[gmail]: mailto:shivammodi8200@gmail.com
+[gmail]: mailto:shivammodiin@gmail.com
 [whatsapp]:https://wa.me/8200289752
 [twitter]: https://twitter.com/shivammodiin
 [facebook]: https://www.facebook.com/shivammodiin
