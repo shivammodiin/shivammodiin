@@ -72,17 +72,17 @@
 
 ---
 
-<a href="https://github-readme-stats-theta-swart.vercel.app/api?username=shivammodi456&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Shivam's Github Stats" src="https://github-readme-stats-theta-swart.vercel.app/api?username=shivammodi456&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://https://github-readme-stats-theta-swart.vercel.app/api/top-langs/?username=shivammodi456&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats-theta-swart.vercel.app/api/top-langs/?username=shivammodi456&layout=compact&theme=radical" />
+<a href="https://github-readme-stats-theta-swart.vercel.app/api?username=shivammodiin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Shivam's Github Stats" src="https://github-readme-stats-theta-swart.vercel.app/api?username=shivammodiin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://https://github-readme-stats-theta-swart.vercel.app/api/top-langs/?username=shivammodiin&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats-theta-swart.vercel.app/api/top-langs/?username=shivammodiin&layout=compact&theme=radical" />
 </a>
 
 
 [website]: https://shivammodi.in/
-[linkedin]: https://www.linkedin.com/in/shivammodi456/
+[linkedin]: https://www.linkedin.com/in/shivammodiin/
 [gmail]: mailto:shivammodi8200@gmail.com
 [whatsapp]:https://wa.me/8200289752
-[twitter]: https://twitter.com/shivammodi456
-[facebook]: https://www.facebook.com/shivamodi456
-[instagram]: https://www.instagram.com/shivammodi_1294/
+[twitter]: https://twitter.com/shivammodiin
+[facebook]: https://www.facebook.com/shivammodiin
+[instagram]: https://www.instagram.com/shivammodiin/
