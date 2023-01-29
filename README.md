@@ -26,29 +26,29 @@
 </p>
 
 ---
-
+<!-- 
 ### Languages and Tools:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="20px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+<img alt="pycharm" width="20px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="javascript" width="20px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="react" width="20px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" width="20px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="html5" width="20px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="css3" width="20px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
@@ -69,7 +69,7 @@
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
-
+ -->
 ---
 
 <a href="https://github-readme-stats-theta-swart.vercel.app/api?username=shivammodiin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
