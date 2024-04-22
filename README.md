@@ -5,7 +5,7 @@
 
 
 - 📚 Fullstack Javascript Developer
-- 🎯 2023 Goals: Working on personal project !!
+- 🎯 2024 Goals: Working on personal project !!
 - ⚡ Fun fact: I love to gain knowledge about new technologies
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="28">
